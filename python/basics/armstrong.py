@@ -1,4 +1,4 @@
-#check armstrong no
+# check armstrong no
 
 n= input ("enter number:") #returns a string not a int 
 
